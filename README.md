@@ -4,6 +4,8 @@
 
 📕 Developed language that I studied.
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=pytnon&logoColor=white"/>
+
+
 📚 I have experienced
 
 
