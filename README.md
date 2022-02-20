@@ -35,9 +35,9 @@ Language
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=white">
 
 
+<br> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoeCP17&show_icons=true&theme=radical)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoeCP17&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoeCP17&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **JoeCP17/JoeCP17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
