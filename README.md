@@ -16,7 +16,7 @@
 
 ### 🔫 Framework 
 
-<img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"><img src="https://img.shields.io/badge/Django-DDE072?style=for-the-badge&logo=Django&logoColor=white"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"><img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"><img src="https://img.shields.io/badge/Django-DDE072?style=for-the-badge&logo=Django&logoColor=white"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 
 <br>
 
@@ -48,8 +48,7 @@
 <br> 
 
 ### 🌱 I’m currently learning 
-
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=white">
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=white">
 
 
 <br> 
