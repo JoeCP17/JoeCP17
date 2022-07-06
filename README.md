@@ -6,6 +6,10 @@
 <br>
 <br>
 
+## 💻 Careers
+### 2022.07 ZUM internet 
+
+
 ## 📚 I have experienced in....
 
 #### 📕 Language 
