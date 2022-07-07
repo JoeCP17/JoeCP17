@@ -7,7 +7,7 @@
 <br>
 
 ## 💻 Careers
-### 2022.07 ZUM internet 
+### 2022.07 ~ current ZUMinternet 
 <br>
 <br>
 
