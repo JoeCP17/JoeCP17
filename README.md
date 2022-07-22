@@ -7,7 +7,7 @@
 <br>
 
 ## 💻 Careers
-### current ZUM internet 
+### ZUM internet 
 <br>
 <br>
 
