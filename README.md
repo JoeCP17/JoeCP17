@@ -7,7 +7,7 @@
 <br>
 
 ## 💻 Careers
-### ZUM internet 
+### EST soft ZUM internet : Backend Developer
 <br>
 <br>
 
