@@ -6,10 +6,13 @@
 Hi there 👋 I'm Joe :)<br>  <br> 🖥  I’m interested in Backend Development <br>
 <br>
 <a href = "https://hot-tractor-dcc.notion.site/e74d10816bf14ceba8ebaf911b23d899">Korean Resume</a><br>
+<br>
 <a href = "https://joecp17.tistory.com/">My Tstory Blog</a><br>
 
+<br> 
+
 ## 💻 Careers
-### < EST soft > ZUM internet : Backend Developer
+< EST soft > ZUM internet : Backend Developer
 <br>
 <br>
 
