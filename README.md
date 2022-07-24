@@ -23,10 +23,9 @@ Hi there 👋 I'm Joe :)<br>  <br> 🖥  I’m interested in Backend Development
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/C Language-A8B9CC?style=flat&logo=C&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=ffffff"/>
 
+<br>
 <br>
 
 ### 🔫 Framework 
@@ -37,6 +36,7 @@ Hi there 👋 I'm Joe :)<br>  <br> 🖥  I’m interested in Backend Development
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=ffffff">
 
 <br>
+<br>
 
 ### 🪣 Data
 
@@ -45,6 +45,7 @@ Hi there 👋 I'm Joe :)<br>  <br> 🖥  I’m interested in Backend Development
 <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=Elasticsearch&logoColor=ffffff">
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=ffffff">
 
+<br>
 <br>
 
 
@@ -57,6 +58,7 @@ Hi there 👋 I'm Joe :)<br>  <br> 🖥  I’m interested in Backend Development
 <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=Grafana&logoColor=ffffff">
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=ffffff">
 
+<br>
 <br> 
 
 ### 🌱 I’m currently learning 
@@ -66,7 +68,6 @@ Hi there 👋 I'm Joe :)<br>  <br> 🖥  I’m interested in Backend Development
 
 
 <br> 
-
 <br> 
 
 ## 💁 Stats
