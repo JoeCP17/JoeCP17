@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header)
 
-## About Me 
+## 😁 About Me 
 Hi there 👋 I'm Joe :)<br>  <br> 🖥  I’m interested in Backend Development <br>
 <br>
 <a href = "https://hot-tractor-dcc.notion.site/e74d10816bf14ceba8ebaf911b23d899">Korean Resume</a><br>
@@ -65,7 +65,7 @@ Hi there 👋 I'm Joe :)<br>  <br> 🖥  I’m interested in Backend Development
 
 <br> 
 
-### Stats
+### 💁 Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoeCP17&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoeCP17&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
