@@ -1,65 +1,67 @@
+<div align="center">
+
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header)
 
-### Hi there 👋 I'm Joe :)
-
-### 🖥  I’m interested in Backend Development
+## About Me 
+Hi there 👋 I'm Joe :)<br>  <br> 🖥  I’m interested in Backend Development <br>
 <br>
-<br>
+<a href = "https://hot-tractor-dcc.notion.site/e74d10816bf14ceba8ebaf911b23d899">Korean Resume</a><br>
 
 ## 💻 Careers
-### EST soft ZUM internet : Backend Developer
+### < EST soft > ZUM internet : Backend Developer
 <br>
 <br>
 
-## 📚 I have experienced in....
+## 📚 Tech Stacks
 
-#### 📕 Language 
+### 📕 Language 
 
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/C Language-A8B9CC?style=flat&logo=C&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=ffffff"/>
 
 <br>
 
 ### 🔫 Framework 
 
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"><img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"><img src="https://img.shields.io/badge/Django-DDE072?style=for-the-badge&logo=Django&logoColor=white"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=ffffff">
+<img src="https://img.shields.io/badge/flask-000000?style=flat&logo=flask&logoColor=ffffff">
+<img src="https://img.shields.io/badge/Django-DDE072?style=flat&logo=Django&logoColor=ffffff">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=ffffff">
 
 <br>
 
-### 🪣 DataBase & Search Engine
+### 🪣 Data
 
-<img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=MYSQL&logoColor=white"/><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/><img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white">
+<img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat&logo=MYSQL&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=Elasticsearch&logoColor=ffffff">
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=ffffff">
 
 <br>
 
 
 ### 🔍 other
 
-<img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white"><img src="https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=Gunicorn&logoColor=white"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/Docker-2496ED?style=or-the-badge&logo=Docker&logoColor=white"/><img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white">
-
-<br>
-
-### 🔗 IDE 
-
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"><img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white"><img src="https://img.shields.io/badge/Intellij IDEA-000000?style=for-the-badge&logo=Intellij IDEA&logoColor=white"><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"><img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white"><img src="https://img.shields.io/badge/Android Studio-7DDC84?style=for-the-badge&logo=Android Studio&logoColor=white">
-
-<br>
-
-
-### 🖥 Skill 
-
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
-
+<img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=ffffff">
+<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=ffffff">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Kibana-005571?style=flat&logo=Kibana&logoColor=ffffff">
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=Grafana&logoColor=ffffff">
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=ffffff">
 
 <br> 
 
 ### 🌱 I’m currently learning 
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=white">
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=ffffff">
+<img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat&logo=Apache Kafka&logoColor=ffffff">
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=ffffff">
 
 
 <br> 
-
-### Introduce 😀
- https://hot-tractor-dcc.notion.site/e74d10816bf14ceba8ebaf911b23d899
 
 <br> 
 
