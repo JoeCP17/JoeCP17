@@ -40,7 +40,7 @@ Hi there 👋 I'm Joe :)<br>  <br> 🖥  I’m interested in Backend Development
 
 ### 🪣 Data
 
-<img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat&logo=MYSQL&logoColor=ffffff"/>
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="43" style="width: 43px; height: 43px; margin-right: 0px; margin-bottom: 0px;" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=Elasticsearch&logoColor=ffffff">
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=ffffff">
@@ -53,7 +53,7 @@ Hi there 👋 I'm Joe :)<br>  <br> 🖥  I’m interested in Backend Development
 
 <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=ffffff">
 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=ffffff">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=ffffff"/>
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="43" height="43" />
 <img src="https://img.shields.io/badge/Kibana-005571?style=flat&logo=Kibana&logoColor=ffffff">
 <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=Grafana&logoColor=ffffff">
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=ffffff">
