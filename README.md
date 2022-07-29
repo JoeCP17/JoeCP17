@@ -57,6 +57,8 @@ Hi there 👋 I'm Joe :)<br>  <br> 🖥  I’m interested in Backend Development
 <img src="https://img.shields.io/badge/Kibana-005571?style=flat&logo=Kibana&logoColor=ffffff">
 <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=Grafana&logoColor=ffffff">
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=ffffff">
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="43" style="width: 43px; height: 43px;" />
+
 
 <br>
 <br> 
