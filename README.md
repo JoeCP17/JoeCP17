@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header)
 
-## 😁 About Me 
+## 😁 About Me 😁
 Hi there 👋 I'm Joe :)<br>  <br> 🖥  I’m interested in Backend Development <br>
 <br>
 <a href = "https://hot-tractor-dcc.notion.site/e74d10816bf14ceba8ebaf911b23d899">Korean Resume</a><br>
@@ -11,14 +11,14 @@ Hi there 👋 I'm Joe :)<br>  <br> 🖥  I’m interested in Backend Development
 
 <br> 
 
-## 💻 Careers
+## 💻 Careers 💻
 < EST soft > ZUM internet : Backend Developer
 <br>
 <br>
 
 ## 📚 Tech Stacks
 
-### 📕 Language 
+### 📕 Language 📕
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=ffffff"/>
@@ -28,7 +28,7 @@ Hi there 👋 I'm Joe :)<br>  <br> 🖥  I’m interested in Backend Development
 <br>
 <br>
 
-### 🔫 Framework 
+### 🔫 Framework 🔫
 
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=ffffff">
 <img src="https://img.shields.io/badge/flask-000000?style=flat&logo=flask&logoColor=ffffff">
@@ -38,7 +38,7 @@ Hi there 👋 I'm Joe :)<br>  <br> 🖥  I’m interested in Backend Development
 <br>
 <br>
 
-### 🪣 Data
+### 🪣 Data 🪣
 
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="43" style="width: 43px; height: 43px; margin-right: 0px; margin-bottom: 0px;" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=ffffff"/>
@@ -49,7 +49,7 @@ Hi there 👋 I'm Joe :)<br>  <br> 🖥  I’m interested in Backend Development
 <br>
 
 
-### 🔍 other
+### 🔍 other 🔍
 
 <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=ffffff">
 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=ffffff">
@@ -63,7 +63,7 @@ Hi there 👋 I'm Joe :)<br>  <br> 🖥  I’m interested in Backend Development
 <br>
 <br> 
 
-### 🌱 I’m currently learning 
+### 🌱 I’m currently learning 🌱
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=ffffff">
 <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat&logo=Apache Kafka&logoColor=ffffff">
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=ffffff">
@@ -72,7 +72,7 @@ Hi there 👋 I'm Joe :)<br>  <br> 🖥  I’m interested in Backend Development
 <br> 
 <br> 
 
-## 💁 Stats
+## 💁 Stats 💁
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoeCP17&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoeCP17&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
