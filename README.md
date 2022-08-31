@@ -3,7 +3,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header)
 
 ## 😁 About Me 😁
-Hi there 👋 I'm Joe :)<br>  <br> 🖥  I’m interested in Backend Development <br>
+Hi there 👋 I'm Joe (KimUeibin) :)<br>  <br> 🖥  I’m interested in Backend Development <br>
 <br>
 <a href = "https://hot-tractor-dcc.notion.site/e74d10816bf14ceba8ebaf911b23d899">Korean Resume</a><br>
 <br>
