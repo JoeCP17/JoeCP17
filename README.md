@@ -8,8 +8,8 @@ Hi there 👋 I'm Joe (KimUeibin) :)<br>  <br> 🖥  I’m interested in Backend
 <a href = "https://hot-tractor-dcc.notion.site/e74d10816bf14ceba8ebaf911b23d899">Korean Resume</a><br>
 <br>
 <a href = "https://joecp17.tistory.com/">My Tstory Blog</a><br>
-
 <br> 
+<a href = "https://www.linkedin.com/in/%EC%9D%98%EB%B9%88-%EA%B9%80-aa8105249/">My Linkedin</a><br>
 
 ## 💻 Careers 💻
 < EST soft > ZUM internet : Backend Developer
