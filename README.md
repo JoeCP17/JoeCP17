@@ -69,13 +69,6 @@ Hi there 👋 I'm Joe (KimUeibin) :)<br>  <br> 🖥  I’m interested in Backend
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=ffffff">
 
 
-<br> 
-<br> 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoeCP17&show_icons=true&theme=radical)
-<br>
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
-
-
 <!--
 **JoeCP17/JoeCP17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
