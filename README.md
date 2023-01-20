@@ -5,7 +5,7 @@
 ## 😁 About Me 😁
 Hi there 👋 I'm Joe (KimUeibin) :)<br>  <br> 🖥  I’m interested in Backend Development <br>
 <br>
-<a href = "https://hot-tractor-dcc.notion.site/c2c2d05295be441192adbcc416f92140">Junior Korean Resume</a><br>
+<a href = "https://hot-tractor-dcc.notion.site/7fa8f4ff05f14f3794a7eb2c36847796">Junior Korean Resume</a><br>
 <br>
 <a href = "https://joecp17.tistory.com/">My Tstory Blog</a><br>
 <br> 
