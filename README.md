@@ -11,14 +11,15 @@ Hi there 👋 I'm Joe (KimUeibin) :)<br>  <br> 🖥  I’m interested in Backend
 <br> 
 <a href = "https://www.linkedin.com/in/%EC%9D%98%EB%B9%88-%EA%B9%80-aa8105249/">My Linkedin</a><br>
 
-## 💻 Careers 💻
+## 💻 Careers 
 < EST soft > ZUM internet : Backend Developer
 <br>
 <br>
-
+## 📚 Article 
+  <a href = "https://zuminternet.github.io/FCM-PUSH"> ZUM 기술블로그 : FCM 푸시 파헤치기 </a><br>
 ## 📚 Tech Stacks
 
-### 📕 Language 📕
+### 📕 Language 
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=ffffff"/>
@@ -28,7 +29,7 @@ Hi there 👋 I'm Joe (KimUeibin) :)<br>  <br> 🖥  I’m interested in Backend
 <br>
 <br>
 
-### 🔫 Framework 🔫
+### 🔫 Framework 
 
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=ffffff">
 <img src="https://img.shields.io/badge/flask-000000?style=flat&logo=flask&logoColor=ffffff">
@@ -38,7 +39,7 @@ Hi there 👋 I'm Joe (KimUeibin) :)<br>  <br> 🖥  I’m interested in Backend
 <br>
 <br>
 
-### 🪣 Data 🪣
+### 🪣 Data 
 
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="43" style="width: 43px; height: 43px; margin-right: 0px; margin-bottom: 0px;" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=ffffff"/>
@@ -49,7 +50,7 @@ Hi there 👋 I'm Joe (KimUeibin) :)<br>  <br> 🖥  I’m interested in Backend
 <br>
 
 
-### 🔍 other 🔍
+### 🔍 other 
 
 <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=ffffff">
 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=ffffff">
@@ -63,7 +64,7 @@ Hi there 👋 I'm Joe (KimUeibin) :)<br>  <br> 🖥  I’m interested in Backend
 <br>
 <br> 
 
-### 🌱 I’m currently learning 🌱
+### 🌱 I’m currently learning 
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=ffffff">
 <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat&logo=Apache Kafka&logoColor=ffffff">
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=ffffff">
