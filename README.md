@@ -18,9 +18,9 @@ Hi there 👋 I'm Joe (KimUeibin) :)<br>  <br> 🖥  I’m interested in Backend
 ## 📚 Tech Stacks
 
 ### 📕 Language 
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=ffffff">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/C Language-A8B9CC?style=flat&logo=C&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=ffffff"/>
 
@@ -65,7 +65,6 @@ Hi there 👋 I'm Joe (KimUeibin) :)<br>  <br> 🖥  I’m interested in Backend
 ### 🌱 I’m currently learning 
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=ffffff">
 <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat&logo=Apache Kafka&logoColor=ffffff">
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=ffffff">
 
 
 <!--
