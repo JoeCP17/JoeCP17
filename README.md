@@ -30,7 +30,6 @@ Hi there 👋 I'm Joe (KimUeibin) :)<br>  <br> 🖥  I’m interested in Backend
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=ffffff">
 <img src="https://img.shields.io/badge/flask-000000?style=flat&logo=flask&logoColor=ffffff">
 <img src="https://img.shields.io/badge/Django-DDE072?style=flat&logo=Django&logoColor=ffffff">
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=ffffff">
 
 <br>
 <br>
