@@ -15,6 +15,10 @@ Hi there 👋 I'm Joe (KimUeibin) :)<br>  <br> 🖥  I’m interested in Backend
 <br>
 ## 📚 Article 
   <a href = "https://zuminternet.github.io/FCM-PUSH"> ZUM 기술블로그 : FCM 푸시 파헤치기 </a><br>
+
+## 📚 Contributed 
+   <a href = "https://github.com/spring-projects-experimental/spring-ai/pull/32"> Spring-Ai : modify message type get value  </a><br>
+
 ## 📚 Tech Stacks
 
 ### 📕 Language 
