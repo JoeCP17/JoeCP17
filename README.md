@@ -10,7 +10,10 @@ Hi there 👋 I'm Joe (KimUeibin) :)<br>  <br> 🖥  I’m interested in Backend
 <a href = "https://www.linkedin.com/in/%EC%9D%98%EB%B9%88-%EA%B9%80-aa8105249/">My Linkedin</a><br>
 
 ## 💻 Careers 
-ZUM internet : Fintech Backend Developer
+ZUM internet : Fintech Backend Developer ( 2022.07 ~ 2023.11 ) 
+<br> 
+
+EST Soft : A2 Backend Developer ( 2023.11 ~ Present ) 
 <br>
 ## 📚 Article 
   <a href = "https://zuminternet.github.io/FCM-PUSH"> ZUM 기술블로그 : FCM 푸시 파헤치기 </a><br>
