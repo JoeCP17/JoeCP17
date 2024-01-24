@@ -19,8 +19,11 @@ EST Soft : A2 Backend Developer ( 2023.11 ~ Present )
   <a href = "https://zuminternet.github.io/FCM-PUSH"> ZUM 기술블로그 : FCM 푸시 파헤치기 </a><br>
 
 ## 📚 Contributed 
-   <a href = "https://github.com/spring-projects-experimental/spring-ai/pull/32"> Spring-Ai : modify message type get value  </a><br>
-
+   <a href = "https://github.com/spring-projects-experimental/spring-ai/pull/32"> Spring-Ai : modify message type get value  </a>
+   <br>
+   
+   <a href = "https://github.com/naver/fixture-monkey/pull/898"> Fixture Monkey : Add Adding Bean Validation page of get-started section for kor doc  </a><br>
+   
 ## 📚 Tech Stacks
 
 ### 📕 Language 
