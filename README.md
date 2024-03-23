@@ -13,7 +13,7 @@ Hi there 👋 I'm Joe (KimUeibin) :)<br>  <br> 🖥  I’m interested in Backend
 ZUM internet : Fintech Backend Developer ( 2022.07 ~ 2023.11 ) 
 <br> 
 
-EST Soft : A2 Backend Developer ( 2023.11 ~ Present ) 
+EST Soft : A2 Backend Developer ( 2023.11 ~ 2024.03 ) 
 <br>
 ## 📚 Article 
   <a href = "https://zuminternet.github.io/FCM-PUSH"> ZUM 기술블로그 : FCM 푸시 파헤치기 </a><br>
