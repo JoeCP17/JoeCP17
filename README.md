@@ -14,6 +14,10 @@ EST Soft : ( 2022.07 ~ 2024.03 )
 <br>
 
 29CM ( MUSINSA ) :  ( 2024.04 ~ 2024.08 ) 
+<br>
+
+EST Soft : ( 2024.12 ~ Present ) 
+
 
 ## 📚 Article 
   <a href = "https://zuminternet.github.io/FCM-PUSH"> ZUM 기술블로그 : FCM 푸시 파헤치기 </a><br>
