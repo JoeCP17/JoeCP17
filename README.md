@@ -2,22 +2,11 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header)
 
-## 😁 About Me 
-Hi there 👋 I'm Joe :)<br>  <br> 🖥  I’m interested in Backend Development <br>
-<br>
-<a href = "https://joecp17.tistory.com/">My Tistory Blog</a><br>
-<br> 
-<a href = "https://www.linkedin.com/in/%EC%9D%98%EB%B9%88-%EA%B9%80-aa8105249/">My Linkedin</a><br>
-
 ## 💻 Careers 
-EST Soft : ( 2022.07 ~ 2024.03 ) 
+EST Soft : ( 2022.07 ~ 2024.03 / 2024.12 ~ Present ) 
 <br>
 
 29CM ( MUSINSA ) :  ( 2024.04 ~ 2024.08 ) 
-<br>
-
-EST Soft : ( 2024.12 ~ Present ) 
-
 
 ## 📚 Article 
   <a href = "https://zuminternet.github.io/FCM-PUSH"> ZUM 기술블로그 : FCM 푸시 파헤치기 </a><br>
