@@ -7,7 +7,7 @@
 StarCodeLabs ( 2026.01 ~ Present )
 <br> 
 
-EST Soft ( 2022.07 ~ 2024.03 / 2024.12 ~ 2026.02 ) 
+EST Soft ( 2022.07 ~ 2024.03 / 2024.12 ~ Present ) 
 <br>
 
 29CM ( MUSINSA )  ( 2024.04 ~ 2024.08 ) 
