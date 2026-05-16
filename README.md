@@ -4,6 +4,8 @@
 
 ## 💻 Careers 
 
+Kidari studio ( 2026.06 ~ Present ) 
+<br> 
 StarCodeLabs ( 2026.01 ~ Present )
 <br> 
 
